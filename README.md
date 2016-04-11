@@ -1,7 +1,7 @@
 H5P Editor Vertical Tabs
 ==========
 
-Makes it eaiser to group editor fields together.
+Makes it easier to group editor fields together.
 
 ## License
 
